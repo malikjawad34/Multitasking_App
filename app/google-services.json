@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "702921702145",
+    "project_id": "multitasking-app-d27c4",
+    "storage_bucket": "multitasking-app-d27c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702921702145:android:ed20a3072b550c687e7900",
+        "android_client_info": {
+          "package_name": "com.example.myfirstapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702921702145-d12k9floiaia7l0npft5df94jb0uha8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAySdJmKPqCcJHqKsd9VD6VBeQJApQSzR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702921702145-d12k9floiaia7l0npft5df94jb0uha8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

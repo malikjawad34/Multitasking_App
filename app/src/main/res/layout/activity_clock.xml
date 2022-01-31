@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ClockActivity">
+
+    <TextView
+        android:id="@+id/tvForClock"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Clocks"
+        android:textSize="30sp"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/tvForAnalogClock"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvForClock"
+        android:text="Analog Clock"
+        android:textSize="30sp" />
+
+    <AnalogClock
+        android:id="@+id/analog_clock"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvForAnalogClock"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="40px" />
+
+    <TextView
+        android:id="@+id/tvForDigitalClock"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/analog_clock"
+        android:text="Digital Clock"
+        android:textSize="30sp" />
+
+    <DigitalClock
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvForDigitalClock"
+        android:textSize="30sp"
+        android:layout_marginTop="80px"
+        android:layout_centerInParent="true" />
+
+
+</RelativeLayout>

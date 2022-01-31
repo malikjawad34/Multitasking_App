@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PickTime">
+
+    <TextView
+        android:id="@+id/tvForTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Time Picker"
+        android:textSize="30sp"
+        android:gravity="center" />
+
+    <TimePicker
+        android:id="@+id/time_picker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvForTime"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="40px" />
+
+
+    <TextView
+        android:id="@+id/pickedTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/time_picker"
+        android:gravity="center"
+        android:textSize="30sp" />
+
+</RelativeLayout>

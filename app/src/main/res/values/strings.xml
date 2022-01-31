@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Multitasking App</string>
+    <array name="strCountries">
+        <item>Pakistan</item>
+        <item>USA</item>
+        <item>Austrial</item>
+        <item>Canada</item>
+        <item>Japan</item>
+        <item>UK</item>
+        <item>China</item>
+        <item>Indonesia</item>
+    </array>
+    <array name="cars">
+        <item>HONDA</item>
+        <item>ALTO</item>
+        <item>CIVIC</item>
+        <item>CITY</item>
+    </array>
+    <array name="presidentName">
+        <item>Arif Alvi</item>
+        <item>Ram Nath Kovind</item>
+        <item>Ebrahim Raisi</item>
+        <item>Xi Jinping</item>
+        <item>Ashraf Ghani</item>
+        <item>Vladimir Putin</item>
+        <item>Incumbent Scott Morrison</item>
+        <item>Ibrahim Muhammad Solih</item>
+        <item>Abdul Hamid</item>
+        <item>Joe Biden</item>
+        <item>Salman bin Abdulaziz</item>
+        <item>Abdrabbuh Mansur Hadi</item>
+        <item>Aziz Akhannouch</item>
+        <item>Tayyip Erdoğan</item>
+        <item>Mahathir Mohamad</item>
+        <item>Joko Widodo</item>
+        <item>Sheikh Tamim bin Hamad Al Thani</item>
+        <item>Nawaf Al-Ahmad Al-Jaber Al-Sabah</item>
+        <item>Salman bin Hamad Al Khalifa</item>
+        <item>Mohamed Ould Ghazouani</item>
+    </array>
+    <array name="area">
+        <item>881913 km^2</item>
+        <item>3.287 M km^2</item>
+        <item>1.648 M km^2</item>
+        <item>9.597 M km^2</item>
+        <item>652.86 km^2</item>
+        <item>17.13 M km^2</item>
+        <item>7.692 M km^2</item>
+        <item>300 km^2</item>
+        <item>148460 km^2</item>
+        <item>9.834 M km^2</item>
+        <item>2,150,000 km^2</item>
+        <item>555,000 km^2</item>
+        <item>710,850 km^2</item>
+        <item>783,356 km^2</item>
+        <item>330,803 km^2</item>
+        <item>1,904,569 km^2</item>
+        <item>11,581 km^2</item>
+        <item>17,818 km^2</item>
+        <item>785.08 km^2</item>
+        <item>1,030,000 km^2</item>
+    </array>
+    <array name="population">
+        <item>220.9 M</item>
+        <item>1.38 B</item>
+        <item>83.99 M</item>
+        <item>1.40 B</item>
+        <item>38.93 M</item>
+        <item>144.1 M</item>
+        <item>25.69 M</item>
+        <item>540.542 K</item>
+        <item>329.5 M</item>
+        <item>164.7 M</item>
+        <item>34.218169 M</item>
+        <item>30,491,000 M</item>
+        <item>37,112,080 M</item>
+        <item>83,614,362 M</item>
+        <item>32,730,000 M</item>
+        <item>270,203,917 M</item>
+        <item>2,795,484 M</item>
+        <item>4,420,110 M</item>
+        <item>1,569,446 M</item>
+        <item>4.403313 M</item>
+    </array>
+    <array name="nationalLanguage">
+        <item>Urdu</item>
+        <item>Hindi</item>
+        <item>Persian</item>
+        <item>Mandarin</item>
+        <item>Pashto</item>
+        <item>Russian</item>
+        <item>English</item>
+        <item>Dhivehi</item>
+        <item>Bengali</item>
+        <item>English</item>
+        <item>Arabic</item>
+        <item>Arabic</item>
+        <item>Arabic,Berber</item>
+        <item>Turkish</item>
+        <item>Malay</item>
+        <item>Indonesian</item>
+        <item>Arabic</item>
+        <item>Arabic</item>
+        <item>Arabic</item>
+        <item>Arabic</item>
+    </array>
+    <array name="capital">
+        <item>Islamabad</item>
+        <item>Delhi</item>
+        <item>Tehran</item>
+        <item>Beijing</item>
+        <item>Kabul</item>
+        <item>Kremlin</item>
+        <item>Sydney</item>
+        <item>Male</item>
+        <item>Dhaka</item>
+        <item>Washington, D.C</item>
+        <item>Riyadh</item>
+        <item>Sana (De jure)</item>
+        <item>Rabat</item>
+        <item>Ankara</item>
+        <item>Putrajaya</item>
+        <item>Jakarta</item>
+        <item>Doha</item>
+        <item>Kuwait City</item>
+        <item>Manama</item>
+        <item>Nouakchott</item>
+    </array>
+
+</resources>
